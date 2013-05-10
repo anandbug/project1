@@ -81,7 +81,10 @@
     <Import Include="System.Web.UI.HtmlControls" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="About.html" />
+    <Content Include="Contact.html" />
     <Content Include="homepage.html" />
+    <Content Include="Products.html" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
