@@ -82,9 +82,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.html" />
+    <Content Include="Clients.html" />
     <Content Include="Contact.html" />
+    <Content Include="Gallery.html" />
     <Content Include="homepage.html" />
+    <Content Include="news.html" />
     <Content Include="Products.html" />
+    <Content Include="sevices.html" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
